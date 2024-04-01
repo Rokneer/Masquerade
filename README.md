@@ -1,6 +1,6 @@
 # Masquerade
 
-## After a mysterious train ride you find yourself stranded in the floating village of Liberio.
+**After a mysterious train ride you find yourself stranded in the floating village of Liberio.**
 
 Its inhabitants are cheerful and welcoming, but you can't seem to shake the feeling that something is wrong...
 
